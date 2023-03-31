@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        0.13.4
-Release:        1
+Release:        2
 Summary:        Small library for word wrapping, indenting, and dedenting strings
 
 # Upstream license specification: MIT
